@@ -67,7 +67,7 @@ public class Consultorio {
                      objTelaConsulta = consultas.menuPrincipalConsulta();
                      break;
                 case 4:
-                     //objTelaAgenda = agenda.menuPrincipalAgenda();
+                     consultas.telaLista();
                      break;
             }
 

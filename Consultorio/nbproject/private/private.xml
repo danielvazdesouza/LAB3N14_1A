@@ -5,11 +5,9 @@
         <group>
             <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/Consultorio/src/consultorio/TelaConsulta.java</file>
             <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/Consultorio/src/consultorio/Consultorio.java</file>
-            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/Consultorio/src/consultorio/TelaPaciente.java</file>
-            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/Consultorio/src/consultorio/CadastraPacientes.java</file>
-            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/Consultorio/src/consultorio/Pacientes.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/Consultorio/src/consultorio/Agenda.java</file>
             <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/Consultorio/src/consultorio/CadastraConsultas.java</file>
-            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/Consultorio/src/consultorio/Consulta.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/Consultorio/src/consultorio/Principal.java</file>
         </group>
     </open-files>
 </project-private>
